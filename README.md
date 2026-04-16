@@ -33,7 +33,7 @@ To run the application in an isolated container:
    ```bash
    docker compose up --build
    ```
-3. Open `http://localhost:8000` in your browser.
+3. Open `http://localhost:8080` in your browser.
 
 ## API Key Setup (Live Data)
 
